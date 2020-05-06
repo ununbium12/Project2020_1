@@ -1,5 +1,8 @@
 # Project2020_1 - 정다훈
 
+## 05월 06일 full-screen bg
+> Full-screen bg 연습
+
 ## 05월 05일 GitHub 재구축
 > Project2020에서 실수로 인해 Project2020_1로 재구축 <br>
 주석 버전 v0.1.0 제작 <br>

@@ -1,6 +1,6 @@
 /*
-* Fill Name: index.html v0.10.0
-* Update: 2020.05.05
+* Fill Name: index.html v0.11.0
+* Update: 2020.05.12
 * Author: developern
 */
 
@@ -10,6 +10,7 @@
     font-size: 20px;
     font-weight: bold;
     text-decoration: none;
+    margin: 12px;
 }
 
 /* main mune */
@@ -33,6 +34,7 @@ ul li a {
     font-weight: bold;
     text-decoration: none;
     font-family: 'Nanum Gothic', sans-serif;
+    text-align: center;
 }
 
 /* article background */
@@ -275,4 +277,96 @@ caption {
     padding-top: 20px;
     color: rgb(172, 69, 9);
     font-size: 20px;
+}
+
+/* 메뉴 제작 */
+
+.dropdown{
+border:none;
+border:0px;
+margin:0px;
+padding:0px;
+font-weight:bold;
+position: fixed;
+top: 0;
+width: 100%;
+}
+    
+.dropdown ul{
+height:50px;
+list-style:none;
+margin:0;
+padding:0;
+}
+    
+.dropdown li{
+float:left;
+padding:0px;
+}
+    
+.dropdown li a{
+color:#cccccc;
+display:block;
+font-weight:normal;
+line-height:50px;
+margin:0px;
+padding:0px 25px;
+text-align:center;
+text-decoration:none;
+width: 115px;
+}
+    
+.dropdown li a:hover, .dropdown ul li:hover a{
+background: rgb(71,71,71);
+color:#FFFFFF;
+text-decoration:none;
+}
+    
+.dropdown li ul{
+background: rgb(109,109,109);
+display:none;
+height:auto;
+padding:0px;
+margin:0px;
+border:0px;
+width:140px;
+z-index:200;
+}
+    
+.dropdown li:hover ul{
+display:block;
+}
+    
+.dropdown li li {
+background: rgb(109,109,109);
+display:block;
+float:none;
+margin:0px;
+padding:0px;
+width:200px;
+}
+    
+.dropdown li:hover li a{
+background:none;
+}
+    
+.dropdown li ul a{
+display:block;
+height:50px;
+font-size:12px;
+font-style:normal;
+margin:0px;
+padding:0px 10px 0px 15px;
+text-align:left;
+}
+    
+.dropdown li ul a:hover, .dropdown li ul li:hover a{
+background: rgb(71,71,71);
+border:0px;
+color:#ffffff;
+text-decoration:none;
+}
+    
+.dropdown p{
+clear:left;
 }

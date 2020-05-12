@@ -1,8 +1,10 @@
 # Project2020_1 - 정다훈
 
-## 05월 12일 dropdown
+## 05월 12일 상단 하단 수정
 > 메뉴를 상단으로 올린 고정 <br>
 서브 메뉴를 추가
+footer 추가
+고스트 버튼 추가
 
 ## 05월 06일 full-screen bg
 > Full-screen bg 연습

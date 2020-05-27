@@ -1,5 +1,16 @@
 # Project2020_1 - 정다훈
 
+## 05월 26일 DOM
+> DOM 내용 <br>
+onload는 html문서를 먼저 받은 후 스크립트 파일을 실행 <br>
+class는 html, id는 javascript 에 사용하는 것을 권장 <br>
+스크립트로 id를 잡고 사용시 내용이 아무것도 없어도 넣을 수 있음(DOM02) <br>
+엘리먼트 다중 선택(DOM03) <br>
+카멜로테이션 <br>
+div로 그라데이션 제작(DOM05) <br>
+image 태그 placeholder로 임의의 이미지 크기 가져옴 (DOM06) <br>
+시계 및 버튼 스크립트 (DOM08)
+
 ## 05월 19일 bootstrap
 > 학교 버전 시작 <br>
 bootstrap 내용추가

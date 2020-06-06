@@ -1,7 +1,5 @@
 # Project2020_1 - 정다훈
 
-<<<<<<< HEAD
-=======
 ## 06월 02일 jQuery
 > jQuery - <br>
 예)<br>
@@ -45,8 +43,6 @@ Covid19 통계 제작 <br>
 LightBox<br>
 Masonry
 
-
->>>>>>> v.1.13.4
 ## 05월 26일 DOM
 > DOM 내용 <br>
 onload는 html문서를 먼저 받은 후 스크립트 파일을 실행 <br>
